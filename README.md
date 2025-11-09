@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mernstack**
 
-- 💬 Ask me about **javascript**
+
 
 - 📫 How to reach me **slnipunakalanka@gmail.com**
 - visit My portfolio-https://my-portfolio-website-y1hq-nipunaj9s-projects.vercel.app/
