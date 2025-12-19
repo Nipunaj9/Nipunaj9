@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Akalanka</h1>
 <h3 align="center">A passionate Fullstack Software Developer from Srilanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nipunaj9&label=Profile%20views&color=0e75b6&style=flat" alt="nipunaj9" /> </p>
-
 <p align="Left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaj9" alt="nipunaj9" /></a> </p>
 
 - 🌱 I’m currently learning **Mernstack**
