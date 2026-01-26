@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nipun Akalanka</h1>
-<h3 align="center">A passionate Fullstack Software Developer from Srilanka</h3>
 
 <p align="Left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaj9" alt="nipunaj9" /></a> </p>
 
